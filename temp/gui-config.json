@@ -30,7 +30,7 @@
 	"randomInGroup" : false,
 	"TTL" : 0,
 	"connectTimeout" : 5,
-	"proxyRuleMode" : 2,
+	"proxyRuleMode" : 16,
 	"proxyEnable" : false,
 	"pacDirectGoProxy" : false,
 	"proxyType" : 0,
