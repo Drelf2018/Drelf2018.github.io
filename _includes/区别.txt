@@ -2,3 +2,7 @@
 <li><a rel="nofollow" href="http://www.ccho.org.cn/">ChO(化学奥林匹克竞赛)</a></li>
 上面的是打开新标签页
 下面的是转到该网页
+
+<li>
+          <a href="{{ '/donate/' | prepend: site.baseurl }}"><strong>打赏</strong></a>
+</li>
