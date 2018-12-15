@@ -1,0 +1,1 @@
+<a href="{{ '/guide/' | prepend: site.baseurl }}"><img src="https://s1.ax2x.com/2018/12/16/5QCrOl.png" alt="5QCrOl.png" border="0" /></a>
