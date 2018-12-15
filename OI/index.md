@@ -11,4 +11,4 @@ tag: guide
 
 
 # 常用模板
-<a href="{{ '2018/11/10/MuBan/' | prepend: site.baseurl }}"><img src="https://s1.ax2x.com/2018/12/16/5QCrOl.png" alt="5QCrOl.png" border="0" /></a>
+<a href="{{ '/2018/12/15/MuBan/' | prepend: site.baseurl }}"><img src="https://s1.ax2x.com/2018/12/16/5QCrOl.png" alt="5QCrOl.png" border="0" /></a>
