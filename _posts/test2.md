@@ -1,0 +1,69 @@
+﻿---
+layout: post
+title:  A+B
+date:   2018-11-1 00:00:00 +0800
+categories: OI
+tag: OI
+---
+
+* content
+{:toc}
+
+
+```cpp
+#include <iostream>
+#include <cstdio>
+
+using namespace std;
+
+int main() {
+    int a,b;
+    cin >> a >> b;
+    cout << a+b;
+    return 0;
+}
+```
+
+<?xml version="1.0" encoding="iso-8859-1"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>未命名1.htm</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="generator" content="SynEdit HTML exporter" />
+<style type="text/css">
+<!--
+body {  }
+.cpp1-assembler { color: #0000FF; }
+.cpp1-character { color: #000000; }
+.cpp1-comment { color: #3399FF; font-style: italic; }
+.cpp1-float { color: #800080; }
+.cpp1-hexadecimal { color: #800080; }
+.cpp1-identifier { color: #000000; }
+.cpp1-illegalchar { color: #000000; }
+.cpp1-number { color: #800080; }
+.cpp1-octal { color: #800080; }
+.cpp1-preprocessor { color: #008000; }
+.cpp1-reservedword { color: #000000; font-weight: bold; }
+.cpp1-space { background-color: #FFFFFF; color: #000000; }
+.cpp1-string { color: #FF0000; }
+.cpp1-symbol { color: #000000; }
+-->
+</style>
+</head>
+<body>
+<pre>
+<code><span style="font: 8pt Courier New;"><span class="cpp1-preprocessor">#include &lt;iostream&gt;
+#include &lt;cstdio&gt;
+
+</span><span class="cpp1-reservedword">using</span><span class="cpp1-space"> </span><span class="cpp1-reservedword">namespace</span><span class="cpp1-space"> std;
+
+</span><span class="cpp1-reservedword">int</span><span class="cpp1-space"> main() {
+    </span><span class="cpp1-reservedword">int</span><span class="cpp1-space"> a,b;
+    cin &gt;&gt; a &gt;&gt; b;
+    cout &lt;&lt; a+b;
+    </span><span class="cpp1-reservedword">return</span><span class="cpp1-space"> </span><span class="cpp1-number">0</span><span class="cpp1-symbol">;
+}
+</span></span>
+</code></pre>
+</body>
+</html>
