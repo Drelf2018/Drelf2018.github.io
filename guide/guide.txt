@@ -1,8 +1,0 @@
-<html>
-	<body>
-		<a href="{{ '/donate/' | prepend: site.baseurl }}" class="details-btn d-flex justify-content-center align-items-center">
-			<span class="details">More</span>
-			<span class="lnr lnr-arrow-right"></span>
-		</a>
-	</body>
-</html>
