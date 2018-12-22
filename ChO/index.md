@@ -10,4 +10,10 @@ tag: guide
 {:toc}
 
 
-（毕竟只有0篇文章
+# Markdown Latex Test
+
+哇咔咔，终于把Latex安装上去了。
+
+可以写方程式啦！
+
+<a href="{{ '/2018/12/18/Chem/' | prepend: site.baseurl }}"><img src="https://s1.ax2x.com/2018/12/16/5QCrOl.png" alt="5QCrOl.png" border="0" /></a>
