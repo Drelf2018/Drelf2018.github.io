@@ -35,7 +35,7 @@ tag: guide
 * $I^{-} \longrightarrow I_2(OH^{-})$
 
 * $\begin{cases}
-  O_3 + CN^- = OCN^- + O_2 \\OCN^- + O_3 = CO_2 + N_2 + O_2
+  O_3 + CN^- = OCN^- + O_2 \\ OCN^- + O_3 = CO_2 + N_2 + O_2
   \end{cases}$
   
 ### $3>$制备
