@@ -36,6 +36,7 @@ tag: guide
 
 * $\begin{cases}
   O_3 + CN^- = OCN^- + O_2 \\
+  
   OCN^- + O_3 = CO_2 + N_2 + O_2
   \end{cases}$
   
